@@ -41,3 +41,5 @@ gem 'http'
 gem 'rack-cors'
 gem 'jb'
 gem 'faker'
+
+gem 'rspec-rails', '~> 5.0.0'
